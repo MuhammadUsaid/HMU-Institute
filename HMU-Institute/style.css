@@ -1,0 +1,158 @@
+
+body{
+    font-family: Arial, sans-serif;
+}
+#firstheading{
+    text-align: center;
+    text-shadow: 1px 1px deeppink;
+}
+.color{
+    color: purple;
+}
+.contact-color{
+    color:  orange;
+}
+nav{
+    text-align: center;
+    background-color: orangered;
+    height: 50px;
+    vertical-align: middle;
+}
+#nav{
+    text-decoration: inline;
+    list-style: none;
+    display: inline-block;
+}
+#nav li{
+    display: inline;
+    vertical-align: middle;
+}
+#home{
+    background-image: url(images/aurora.jpg);
+    background-size: 100%;
+}
+#contact{
+    background-image: url(images/student.jpg);
+    background-size: 100%;
+}
+#student{
+    background-image: url(images/blue.jpg) ;
+    background-size: 100%;
+}
+#subject{
+    background-image: url(images/dark.jpg);
+    background-size: 100%;
+}
+#news{
+    width: 30%;
+    color: white;
+    text-align: center;
+    border: 3px solid purple;
+    box-shadow: 2px 2px black;
+    margin: 15px;
+    text-shadow: 2px 3px purple;
+    font-size: 20px;
+    height: 400px;
+    overflow: auto;
+}
+#sports{
+    color: white;
+    text-shadow: 2px 3px purple;
+    width: 30%;
+    text-align: center;
+    border: 3px solid purple;
+    box-shadow: 2px 3px black;
+    margin: 15px;
+    font-size: 20px;
+    position: absolute;
+    top: 172px;
+    left: 435px;
+    height: 400px;
+}
+#achievement{
+    color: white;
+    text-shadow: 2px 3px purple;
+    width: 30%;
+    text-align: center;
+    border: 3px solid purple;
+    box-shadow: 2px 3px black;
+    margin: 15px;
+    font-size: 20px;
+    position: absolute;
+    top: 172px;
+    right: 40px;
+    height: 400px;
+}
+div h1{
+    color: red;
+}
+div h2{
+    color: lawngreen;
+}
+#form div{
+    background-color: green;
+    border: 5px solid pink;
+    width: 45%;
+    text-align: center;
+    margin: 15px;
+    box-shadow: 2px 1px goldenrod;
+}
+ul#numbers{
+    text-align: center;
+    color:  blueviolet;
+    list-style: none;
+    margin-top: 200px;
+    border: 2px solid red;
+    background-color: black;
+    text-shadow: 0.5px 1px yellow;
+    font-size: 20px;
+}
+#form{
+    color: white;
+    text-shadow: 1px 2px blue;
+}
+#science, #others{
+    color: white;
+    border: 2px solid blue;
+    width: 40%;
+    text-align: center;
+    list-style: none;
+    margin: 10px;
+    font-size: 20px;
+}
+#intro-subject{
+    color: green;
+    font-size: 18px;
+    background-color: white;
+}
+#others{
+    position: absolute;
+    top: 240px;
+    right: 95px;
+}
+.nobullet{
+    list-style: none;
+}
+#college{
+    position: absolute;
+    top: 170px;
+    right: 60px;
+}
+#diploma{
+    position: absolute;
+    top: 390px;
+    right: 60px;
+    
+}
+.subject-color{
+    color: green;
+    text-shadow: 1px 0.5px black;
+}
+footer{
+    color: black;
+    background-color: pink;
+    float: right;
+}
+img{
+    vertical-align: middle;
+}
